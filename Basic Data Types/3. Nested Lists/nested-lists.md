@@ -66,4 +66,4 @@ The lowest grade of `37.2` belongs to Tina. The second lowest grade of `37.21` b
 
 ### Link to Original HackerRank Problem
 
-[Link to HackerRank Problem](https://www.hackerrank.com/problem)
+[Link to HackerRank Problem](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=true)
