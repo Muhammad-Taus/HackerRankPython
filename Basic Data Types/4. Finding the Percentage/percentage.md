@@ -17,7 +17,7 @@ The query_name is 'beta'. beta's average score is `(30 + 50 + 70)/ 3 = 50.0 `
 
 ### Input
 
-Describe the input format required by the problem.
+The first line contains the integer `n`, the number of students' records. The next `n` lines contain the names and marks obtained by a student, each value separated by a space. The final line contains query_name, the name of a student to query.
 
 ### Constraints
 
