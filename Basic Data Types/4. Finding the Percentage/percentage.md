@@ -13,7 +13,7 @@ marks key:value pairs are,
 query_name = 'beta'
 ```
 
-The query_name is 'beta'. beta's average score is `(30 + 50 + 70)/ 3 = 50.0 `
+The query_name is 'beta'. beta's average score is `(30 + 50 + 70)/ 3 = 50.0 `.
 
 ### Input
 
