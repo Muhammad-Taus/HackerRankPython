@@ -21,7 +21,11 @@ The first line contains the integer `n`, the number of students' records. The ne
 
 ### Constraints
 
-List any constraints or requirements specified in the problem statement.
+```
+2 <= n <= 10
+0 <= marks[i] <= 100
+length of marks arrays = 3
+```
 
 ### Output
 
