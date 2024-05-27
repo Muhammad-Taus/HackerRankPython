@@ -29,7 +29,7 @@ length of marks arrays = 3
 
 ### Output
 
-Explain the expected output format.
+Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
 
 ### Sample Input
 
