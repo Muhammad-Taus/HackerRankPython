@@ -43,7 +43,9 @@ Malika
 
 ### Sample Output
 
-Provide the corresponding sample output.
+```
+56.00
+```
 
 ### Explanation
 
