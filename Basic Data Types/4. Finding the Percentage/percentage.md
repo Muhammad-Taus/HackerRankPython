@@ -49,7 +49,7 @@ Malika
 
 ### Explanation
 
-Explain your solution approach or provide additional context.
+Marks for Malika are `{52,56,60}` whose average is `(52+56+60) / 3 = 56` Explain your solution approach or provide additional context.
 
 ### Link to Original HackerRank Problem
 
