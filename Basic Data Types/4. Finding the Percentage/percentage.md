@@ -53,4 +53,4 @@ Marks for Malika are `{52,56,60}` whose average is `(52+56+60) / 3 = 56` Explain
 
 ### Link to Original HackerRank Problem
 
-[Link to HackerRank Problem](https://www.hackerrank.com/problem)
+[Link to HackerRank Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)
