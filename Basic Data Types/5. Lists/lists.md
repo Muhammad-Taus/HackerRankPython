@@ -5,6 +5,7 @@
 Consider a list (list = []). You can perform the following commands:
 
 1. insert i e: Insert integer `e` at position `i`.
+2. print: Print the list.
 
 ### Example
 
