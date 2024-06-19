@@ -10,6 +10,7 @@ Consider a list (list = []). You can perform the following commands:
 4. append e: Insert integer `e` at the end of the list.
 5. sort: Sort the list.
 6. pop: Pop the last element from the list.
+7. reverse: Reverse the list.
 
 ### Example
 
