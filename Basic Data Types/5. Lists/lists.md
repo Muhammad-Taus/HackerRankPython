@@ -16,7 +16,9 @@ Initialize your list and read in the value of `n` followed by `n` lines of comma
 
 ### Example
 
-Provide an example to illustrate the problem.
+```
+N = 4
+```
 
 ### Input
 
