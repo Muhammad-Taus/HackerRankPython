@@ -19,9 +19,10 @@ Initialize your list and read in the value of `n` followed by `n` lines of comma
 ```
 N = 4
 append 1
+append 2
 ```
 
-### Input
+### Input~
 
 Describe the input format required by the problem.
 
