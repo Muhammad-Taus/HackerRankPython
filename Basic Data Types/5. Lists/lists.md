@@ -20,7 +20,7 @@ Initialize your list and read in the value of `n` followed by `n` lines of comma
 N = 4
 append 1
 append 2
-append 3
+insert 3 1
 ```
 
 ### Input~
