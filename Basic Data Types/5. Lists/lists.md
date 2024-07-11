@@ -21,6 +21,7 @@ N = 4
 append 1
 append 2
 insert 3 1
+print
 ```
 
 ### Input~
