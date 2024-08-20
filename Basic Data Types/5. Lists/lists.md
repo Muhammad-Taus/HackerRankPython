@@ -16,13 +16,13 @@ Initialize your list and read in the value of `n` followed by `n` lines of comma
 
 ### Example
 
-```
+
 N = 4
 append 1
 append 2
 insert 3 1
 print
-```
+- append 1: Append 1 to the list, arr = [1]
 
 ### Input~
 
